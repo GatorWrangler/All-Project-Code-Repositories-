@@ -9,6 +9,7 @@ public class User
     @PrimaryKey
     private int id;
 
+    private String userName;
     private String first_name;
     private String last_name;
     private String email;
@@ -16,6 +17,14 @@ public class User
 
     public int getId() {
         return id;
+    }
+
+    public String getUserName() {
+        return userName;
+    }
+
+    public void setUserName(String userName) {
+        this.userName = userName;
     }
 
     public void setId(int id) {
