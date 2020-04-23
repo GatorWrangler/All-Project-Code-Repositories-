@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <SearchView
+        android:id="@+id/existing_run_searchbar"
+        android:layout_width="match_parent"
+        android:layout_height="82dp" />
+
+    <TableLayout
+        android:id="@+id/exisiting_run_table"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TableRow
+            android:id="@+id/existing_run_tablerow_1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:id="@+id/existing_run_button_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Run 1" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/existing_run_tablerow_2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:id="@+id/existing_run_button_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Run 2" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/existing_run_tablerow_3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:id="@+id/existing_run_button_3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Run 3" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/existing_run_tablerow_3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:id="@+id/existing_run_button_4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Run 4" />
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

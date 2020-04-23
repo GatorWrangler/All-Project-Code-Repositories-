@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">River_Mile</string>
+    <string name="action_settings">Settings</string>
+    <string name="l">Login</string>
+    <string name="s">Sign Up</string>
+    <string name="v">beta 1.0</string>
+    <string name="icon">icon</string>
+    <string name="p"> password</string>
+    <string name="u"> username</string>
+    <string name="f">forgot password</string>
+    <string name="title">River Mile</string>
+    <string name="signin">SIGN IN</string>
+    <string name="per">Personal Information</string>
+    <string name="sut">SIGN UP</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="fname">FIRST/GIVEN NAME</string>
+    <string name="username">Enter your username</string>
+    <string name="eyp">Enter your password</string>
+    <string name="ln">LAST/FAMILY/SURNAME</string>
+    <string name="next">Next</string>
+    <string name="flog">for login</string>
+    <string name="date">DATE OF BIRTH</string>
+    <string name="later">Do It Later</string>
+</resources>

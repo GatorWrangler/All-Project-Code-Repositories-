@@ -1,0 +1,35 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.brant.river_mile.test" >
+4
+5    <uses-sdk
+5-->/Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6736875595942777415.xml:5:5-74
+6        android:minSdkVersion="24"
+6-->/Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6736875595942777415.xml:5:15-41
+7        android:targetSdkVersion="26" />
+7-->/Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6736875595942777415.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6736875595942777415.xml:11:5-15:70
+10        android:name="android.support.test.runner.AndroidJUnitRunner"
+10-->/Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6736875595942777415.xml:11:22-83
+11        android:functionalTest="false"
+11-->/Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6736875595942777415.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6736875595942777415.xml:13:22-53
+13        android:label="Tests for com.brant.river_mile"
+13-->/Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6736875595942777415.xml:15:22-68
+14        android:targetPackage="com.brant.river_mile" />
+14-->/Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6736875595942777415.xml:12:22-66
+15
+16    <application
+16-->/Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6736875595942777415.xml:7:5-9:19
+17        android:debuggable="true"
+17-->/Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6736875595942777415.xml:7:18-43
+18        android:extractNativeLibs="false" >
+19        <uses-library android:name="android.test.runner" />
+19-->/Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6736875595942777415.xml:8:9-60
+19-->/Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6736875595942777415.xml:8:23-57
+20    </application>
+21
+22</manifest>

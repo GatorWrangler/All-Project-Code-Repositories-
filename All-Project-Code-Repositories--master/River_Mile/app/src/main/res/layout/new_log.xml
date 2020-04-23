@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".HomePage"
+    tools:showIn="@layout/new_log">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back"
+        tools:layout_editor_absoluteX="11dp"
+        tools:layout_editor_absoluteY="18dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Log"
+        android:textSize="56sp"
+        tools:layout_editor_absoluteX="109dp"
+        tools:layout_editor_absoluteY="-9dp" />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="date"
+        tools:layout_editor_absoluteX="182dp"
+        tools:layout_editor_absoluteY="110dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Date:"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="124dp"
+        tools:layout_editor_absoluteY="128dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Number of laps:"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="26dp"
+        tools:layout_editor_absoluteY="184dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Number of people:"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="236dp" />
+
+    <EditText
+        android:id="@+id/editText6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="181dp"
+        tools:layout_editor_absoluteY="166dp" />
+
+    <EditText
+        android:id="@+id/editText7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="182dp"
+        tools:layout_editor_absoluteY="218dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Watercraft:"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="69dp"
+        tools:layout_editor_absoluteY="293dp" />
+
+    <EditText
+        android:id="@+id/editText9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="182dp"
+        tools:layout_editor_absoluteY="275dp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Difficulty:"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="81dp"
+        tools:layout_editor_absoluteY="344dp" />
+
+    <RadioGroup
+        android:layout_width="213dp"
+        android:layout_height="95dp"
+        tools:layout_editor_absoluteX="182dp"
+        tools:layout_editor_absoluteY="344dp" >
+
+        <RadioButton
+            android:id="@+id/radioButton4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Easy" />
+
+        <RadioButton
+            android:id="@+id/radioButton5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Medium" />
+
+        <RadioButton
+            android:id="@+id/radioButton6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Hard" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Log"
+        tools:layout_editor_absoluteX="152dp"
+        tools:layout_editor_absoluteY="587dp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Section:"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="95dp"
+        tools:layout_editor_absoluteY="458dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

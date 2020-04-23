@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/runNameCreate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textCapWords"
+        android:text="Run Name" />
+
+    <EditText
+        android:id="@+id/PICoordCreate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="number"
+        android:text="Put In Coordinates" />
+
+    <EditText
+        android:id="@+id/TOCoordCreate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="number"
+        android:text="Take Out Coordinates" />
+
+    <EditText
+        android:id="@+id/editText4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="none"
+        android:text="Run Difficulty" />
+
+    <RadioGroup
+        android:id="@+id/classOfNewRun"
+        android:layout_width="match_parent"
+        android:layout_height="125dp"
+        android:checkedButton="@+id/class3Button"
+        android:visibility="visible">
+
+        <RadioButton
+            android:id="@+id/class1Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="I" />
+
+        <RadioButton
+            android:id="@+id/class2Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:checked="false"
+            android:text="II"
+            android:visibility="visible" />
+
+        <RadioButton
+            android:id="@+id/class3Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="III" />
+
+        <RadioButton
+            android:id="@+id/class4Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="IV" />
+
+        <RadioButton
+            android:id="@+id/class5Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="V" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/submitNewRun"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Create" />
+
+</LinearLayout>

@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/97d375f2d1c6efd6189bd3bf7948bbc3/design-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/cd5043b2d60affb50551ce51bb51dec1/appcompat-v7-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/6f0b0916ff5f97d7f64be501e6c16da4/constraint-layout-1.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/795b90c79dfa959b66239023b28c08e7/animated-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/9572c87857852f00e68e384dda0da4af/support-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/bcc2e825d05212765022895fc3e669b5/recyclerview-v7-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/42a056e63a0aacb1febfeae7a327ea3a/transition-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/bc7dac7be6564f563d9b0c958ed3523f/support-v4-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/a31ec6f6fa52cc8fbc645871a11eebc3/support-media-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/3510dcad850f5a33674b7ed1ffd01865/support-fragment-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/9b60b442c18603343137db4eda9b65f6/support-core-utils-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/f4a4de359bb71e3ff551206cdce8ad96/support-core-ui-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/220c9c180e8e9618ecf7bb8e2f1eddbb/support-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/1f45d69d51a7cd9269ac5863e813b302/runtime-1.0.0/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/97d375f2d1c6efd6189bd3bf7948bbc3/design-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/97d375f2d1c6efd6189bd3bf7948bbc3/design-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/cd5043b2d60affb50551ce51bb51dec1/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/cd5043b2d60affb50551ce51bb51dec1/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/6f0b0916ff5f97d7f64be501e6c16da4/constraint-layout-1.0.2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/6f0b0916ff5f97d7f64be501e6c16da4/constraint-layout-1.0.2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/795b90c79dfa959b66239023b28c08e7/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/795b90c79dfa959b66239023b28c08e7/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/9572c87857852f00e68e384dda0da4af/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/9572c87857852f00e68e384dda0da4af/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/bcc2e825d05212765022895fc3e669b5/recyclerview-v7-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/bcc2e825d05212765022895fc3e669b5/recyclerview-v7-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/42a056e63a0aacb1febfeae7a327ea3a/transition-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/42a056e63a0aacb1febfeae7a327ea3a/transition-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/bc7dac7be6564f563d9b0c958ed3523f/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/bc7dac7be6564f563d9b0c958ed3523f/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/a31ec6f6fa52cc8fbc645871a11eebc3/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/a31ec6f6fa52cc8fbc645871a11eebc3/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/3510dcad850f5a33674b7ed1ffd01865/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/3510dcad850f5a33674b7ed1ffd01865/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/9b60b442c18603343137db4eda9b65f6/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/9b60b442c18603343137db4eda9b65f6/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/f4a4de359bb71e3ff551206cdce8ad96/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/f4a4de359bb71e3ff551206cdce8ad96/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/220c9c180e8e9618ecf7bb8e2f1eddbb/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/220c9c180e8e9618ecf7bb8e2f1eddbb/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/1f45d69d51a7cd9269ac5863e813b302/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/1f45d69d51a7cd9269ac5863e813b302/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.brant.river_mile.HomePage
+ADDED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:13:13-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/97d375f2d1c6efd6189bd3bf7948bbc3/design-26.1.0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/97d375f2d1c6efd6189bd3bf7948bbc3/design-26.1.0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/cd5043b2d60affb50551ce51bb51dec1/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/cd5043b2d60affb50551ce51bb51dec1/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/6f0b0916ff5f97d7f64be501e6c16da4/constraint-layout-1.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/6f0b0916ff5f97d7f64be501e6c16da4/constraint-layout-1.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/795b90c79dfa959b66239023b28c08e7/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/795b90c79dfa959b66239023b28c08e7/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/9572c87857852f00e68e384dda0da4af/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/9572c87857852f00e68e384dda0da4af/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/bcc2e825d05212765022895fc3e669b5/recyclerview-v7-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/bcc2e825d05212765022895fc3e669b5/recyclerview-v7-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/42a056e63a0aacb1febfeae7a327ea3a/transition-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/42a056e63a0aacb1febfeae7a327ea3a/transition-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/bc7dac7be6564f563d9b0c958ed3523f/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/bc7dac7be6564f563d9b0c958ed3523f/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/a31ec6f6fa52cc8fbc645871a11eebc3/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/a31ec6f6fa52cc8fbc645871a11eebc3/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/3510dcad850f5a33674b7ed1ffd01865/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/3510dcad850f5a33674b7ed1ffd01865/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/9b60b442c18603343137db4eda9b65f6/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/9b60b442c18603343137db4eda9b65f6/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/f4a4de359bb71e3ff551206cdce8ad96/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/f4a4de359bb71e3ff551206cdce8ad96/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/220c9c180e8e9618ecf7bb8e2f1eddbb/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/220c9c180e8e9618ecf7bb8e2f1eddbb/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/1f45d69d51a7cd9269ac5863e813b302/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/1f45d69d51a7cd9269ac5863e813b302/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/97d375f2d1c6efd6189bd3bf7948bbc3/design-26.1.0/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kick3balls/Desktop/All-Project-Code-Repositories--master/River_Mile/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/97d375f2d1c6efd6189bd3bf7948bbc3/design-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/cd5043b2d60affb50551ce51bb51dec1/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/cd5043b2d60affb50551ce51bb51dec1/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/795b90c79dfa959b66239023b28c08e7/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/795b90c79dfa959b66239023b28c08e7/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/9572c87857852f00e68e384dda0da4af/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/9572c87857852f00e68e384dda0da4af/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/bcc2e825d05212765022895fc3e669b5/recyclerview-v7-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/bcc2e825d05212765022895fc3e669b5/recyclerview-v7-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/42a056e63a0aacb1febfeae7a327ea3a/transition-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/42a056e63a0aacb1febfeae7a327ea3a/transition-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/bc7dac7be6564f563d9b0c958ed3523f/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/bc7dac7be6564f563d9b0c958ed3523f/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/a31ec6f6fa52cc8fbc645871a11eebc3/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/a31ec6f6fa52cc8fbc645871a11eebc3/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/3510dcad850f5a33674b7ed1ffd01865/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/3510dcad850f5a33674b7ed1ffd01865/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/9b60b442c18603343137db4eda9b65f6/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/9b60b442c18603343137db4eda9b65f6/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/f4a4de359bb71e3ff551206cdce8ad96/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/f4a4de359bb71e3ff551206cdce8ad96/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/220c9c180e8e9618ecf7bb8e2f1eddbb/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/220c9c180e8e9618ecf7bb8e2f1eddbb/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/97d375f2d1c6efd6189bd3bf7948bbc3/design-26.1.0/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/97d375f2d1c6efd6189bd3bf7948bbc3/design-26.1.0/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/1f45d69d51a7cd9269ac5863e813b302/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/1f45d69d51a7cd9269ac5863e813b302/runtime-1.0.0/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/kick3balls/.gradle/caches/transforms-2/files-2.1/1f45d69d51a7cd9269ac5863e813b302/runtime-1.0.0/AndroidManifest.xml:26:13-58

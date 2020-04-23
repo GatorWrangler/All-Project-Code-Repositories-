@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Spinner
+        android:id="@+id/waterCraftSelector"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:spinnerMode="dropdown"
+        android:visibility="visible" />
+
+    <Spinner
+        android:id="@+id/timePeriodSelector"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/dayCounterStats"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Days"
+        android:textAppearance="@android:style/TextAppearance.Material.Large" />
+
+    <TextView
+        android:id="@+id/dayCountStat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="100000" />
+
+    <TextView
+        android:id="@+id/mileCounterStats"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Miles"
+        android:textAppearance="@android:style/TextAppearance.Material.Large" />
+
+    <TextView
+        android:id="@+id/mileCountStat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="100000" />
+
+    <TextView
+        android:id="@+id/flipCounterStat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Flips/Swims"
+        android:textAppearance="@android:style/TextAppearance.Material.Large" />
+
+    <TextView
+        android:id="@+id/flipCountStat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="100000" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+</LinearLayout>
