@@ -4,7 +4,7 @@ import androidx.room.Entity;
 import androidx.room.PrimaryKey;
 
 @Entity
-public class RunsDB
+public class Run
 {
     @PrimaryKey
     private int id;
