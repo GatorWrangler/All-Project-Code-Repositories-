@@ -10,4 +10,9 @@ Its a little disorganized...
 
 On the home page of the repo, there are several zip files. These zip files include individuals contributions that were stored on local machines and never pushed to the master branch. The Contributions folder includes all of Rohit's various commits and his personal, local copy. 4th.zip includes the working demo that was shown for the inclass presentation. "log in and sign up" is a folder that contains the login page, signup page, forgot password page, and the database drivers needed for them to function. 
 
-All-Project-Code-Repositories--master contains the majority of the code for the project that was being worked on collaboratively. Within this file is the folder River_Mile where 
+All-Project-Code-Repositories--master contains the majority of the code for the project that was being worked on collaboratively. Within this file is the folder River_Mile where all files to make the app are located. Individual pages can be found via /All-Project-Code-Repositories--master/River_Mile/app/src/main/res/layout/. All database files can be found via: /All-Project-Code-Repositories--master/River_Mile/app/src/main/java/com/brant/river_mile/.
+
+# Building 
+You must have android studio installed. Then download All-Project-Code-Repositories--master. From here, go to the Build Gradle file and build that. The app should now be ready to run on an emulator of your choosing.
+
+
