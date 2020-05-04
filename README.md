@@ -6,3 +6,8 @@ River Mile is a unique android application that is designed to allow users to tr
 
 # Repo Structure
 
+Its a little disorganized... 
+
+On the home page of the repo, there are several zip files. These zip files include individuals contributions that were stored on local machines and never pushed to the master branch. The Contributions folder includes all of Rohit's various commits and his personal, local copy. 4th.zip includes the working demo that was shown for the inclass presentation. "log in and sign up" is a folder that contains the login page, signup page, forgot password page, and the database drivers needed for them to function. 
+
+All-Project-Code-Repositories--master contains the majority of the code for the project that was being worked on collaboratively. Within this file is the folder River_Mile where 
